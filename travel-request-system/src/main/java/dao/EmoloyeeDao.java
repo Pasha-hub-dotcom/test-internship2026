@@ -1,4 +1,4 @@
 package dao;
 
-public class EmoloyeeDao {
+public record EmoloyeeDao {
 }
