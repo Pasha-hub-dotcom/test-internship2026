@@ -1,4 +1,4 @@
 package dao;
 
-public record EmoloyeeDao () {
+public record EmoloyeeDao (Integer id) {
 }
